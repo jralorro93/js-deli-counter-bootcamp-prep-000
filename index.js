@@ -32,12 +32,9 @@ function currentLine(line) {
 }
 
 
-i = 100
-
-
+ i = 1;
 function takeANumber(line){
- var i = 1;
- line.push(i)
+ line.push(i);
  return `Welcome! You're ticket number #${i++}`
 }
 
