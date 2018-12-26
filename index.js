@@ -36,7 +36,8 @@ function currentLine(line) {
 
 
 function takeANumber(line){
-  
+ var i = 0;
+ for ()
 }
 
 
