@@ -32,10 +32,10 @@ function currentLine(line) {
 }
 
 
- i = 1;
+var i = 1;
 function takeANumber(line){
  line.push(i);
- return `Welcome! You're ticket number #${i++}`
+ return `Welcome! You're ticket number #${i++}`;
 }
 
 
